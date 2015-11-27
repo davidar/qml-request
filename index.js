@@ -394,4 +394,3 @@ function b64_enc (data) {
 
     return enc;
 }
-module.exports = request;
